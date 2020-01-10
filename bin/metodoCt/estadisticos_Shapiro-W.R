@@ -31,9 +31,11 @@ shapiro.test(datos_interes$C.Jun)
 shapiro.test(datos$MMP7)
 
 
+
 plotn(datos$C.Jun,main="Distribución NO normal")#Grafico de x
 plotn(datos_interes$C.Jun,main="Distribución normal")#Grafico de x
 
+#Link info
 # https://rpubs.com/RubenOrtiz/192363
 
 
